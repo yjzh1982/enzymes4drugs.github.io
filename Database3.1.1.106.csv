@@ -1,0 +1,9 @@
+PDB ID,Acylation Leaving Group,,,,,ActiveSiteOnSurface (Yes=1; No=0),Deacylation Leaving Group,,,,,ActiveSiteOnSurface (Yes=1; No=0),,
+,Size,PLB,Hyd,Side,Residues,,Size,PLB,Hyd,Side,Residues,,,
+5CB3,98,2.45,31,51,1:(GLY10 ASP11 ILE12 THR13 ALA23 ALA24 ASN25 GLY31 GLY32 GLY33 VAL34 ASP35 ALA37 THR81 VAL82 GLY83 PRO119 ALA120 ILE121 SER122 THR123 GLY124 VAL125 TYR126 GLY127 ARG130 VAL157 CYS158 TYR159 ASP160 ASN163),1,NA,NA,NA,NA,NA,0,,"NA and 0 means a very small site (generally very hydrophobic, for example, only be able to contain a methyl group)"
+6LH4,167,4.24,43,77,1:(SER159 ASP160 ILE161 THR162 ALA172 ALA173 ASN174 GLY179 GLY180 GLY181 GLY182 VAL183 ASP184 GLY185 CYS186 ARG189 THR226 VAL227 GLY228 PRO265 CYS266 ILE267 SER268 THR269 GLY270 VAL271 PHE272 CYS276 CYS304 VAL305 PHE306 LEU307 ASP310)2:(PRO142 ARG143 TYR144 LYS145 ARG288 GLU289 GLU292),1,NA,NA,NA,NA,NA,0,,NA and 1 means an open  active site.
+END,,,,,,,,,,,,,,acylation and deacylation may share one binding site
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,

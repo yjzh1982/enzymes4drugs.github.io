@@ -1,0 +1,5 @@
+﻿PDB ID,Acylation Leaving Group,,,,,ActiveSiteOnSurface (Yes=1; No=0),Deacylation Leaving Group,,,,,ActiveSiteOnSurface (Yes=1; No=0),,
+,Size,PLB,Hyd,Side,Residues,,Size,PLB,Hyd,Side,Residues,,,
+2XUA,NA,NA,NA,NA,NA,0,67,3.34,27,53,1:(SER34 LEU35 GLY36 SER100 MSE101 ARG128 ILE129 GLY130 VAL134 TRP135 ARG138 VAL154 ARG157 TRP158 PHE178 TYR186 ILE193 LEU218 ALA219 ALA220 THR221 GLN224 HIS244),1,,
+END,,,,,,,,,,,,,,"NA and 0 means a very small site (generally very hydrophobic, for example, only be able to contain a methyl or butyryl group)"
+,,,,,,,,,,,,,,NA and 1 means an open  active site.
